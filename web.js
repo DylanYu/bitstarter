@@ -4,8 +4,8 @@ var app = express.createServer(express.logger());
 
 var fs = require('fs');
 
-var strBuf = fs.readFileSync('indexl.html');
-var str = strBuf.toString()
+var strBuf = fs.readFileSync('index.html');
+var str = strBuf.toString();
 
 app.get('/', function(request, response) {
   response.send(str);
