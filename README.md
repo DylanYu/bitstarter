@@ -4,4 +4,4 @@ Course Project for [Startup Engineering](https://www.coursera.org/course/startup
 
 The corresponding website is deployed on [heroku](https://www.heroku.com).
 
-Currently the url is immense-basin-6731.herokuapp.com
+Currently the url is [immense-basin-6731.herokuapp.com](immense-basin-6731.herokuapp.com)
